@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\face_app",
+    "\\face_app\\.idea",
+    "\\face_app\\data",
+    "\\face_app\\data\\known_faces",
+    "\\face_app\\env",
+    "\\face_app\\env\\etc",
+    "\\face_app\\env\\Include",
+    "\\face_app\\env\\Lib",
+    "\\face_app\\env\\Scripts"
+  ],
+  "SelectedNode": "\\face_app\\app.py",
+  "PreviewInSolutionExplorer": false
+}

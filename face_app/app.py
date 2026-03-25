@@ -1,7 +1,7 @@
-import streamlit as st
+  import streamlit as st
 import cv2
 import numpy as np
-from src.face_utils import detect_faces, encode_faces, draw_faces
+from src.face_utils import   detect_faces, encode_faces, draw_faces
 from src.recognize import load_known_faces, recognize_faces
 
 st.title("人脸识别系统")
